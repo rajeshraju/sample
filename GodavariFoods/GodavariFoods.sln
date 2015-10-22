@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodavariFoods", "GodavariFoods\GodavariFoods.csproj", "{EA10BFA2-E183-4A67-9AA3-CEC0C56FB9AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApp", "MvcApp\MvcApp.csproj", "{3F683954-BAAE-4EF6-8AFB-8FF637EA8929}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApp.Tests", "MvcApp.Tests\MvcApp.Tests.csproj", "{52D22524-E3BB-4C4B-851D-A9D131BFE996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA10BFA2-E183-4A67-9AA3-CEC0C56FB9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA10BFA2-E183-4A67-9AA3-CEC0C56FB9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA10BFA2-E183-4A67-9AA3-CEC0C56FB9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA10BFA2-E183-4A67-9AA3-CEC0C56FB9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F683954-BAAE-4EF6-8AFB-8FF637EA8929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F683954-BAAE-4EF6-8AFB-8FF637EA8929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F683954-BAAE-4EF6-8AFB-8FF637EA8929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F683954-BAAE-4EF6-8AFB-8FF637EA8929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D22524-E3BB-4C4B-851D-A9D131BFE996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D22524-E3BB-4C4B-851D-A9D131BFE996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D22524-E3BB-4C4B-851D-A9D131BFE996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D22524-E3BB-4C4B-851D-A9D131BFE996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

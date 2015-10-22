@@ -1,0 +1,9 @@
+c:\users\rajesh\documents\visual studio 2013\Projects\GodavariFoods\GodavariFoods\bin\Debug\GodavariFoods.exe
+c:\users\rajesh\documents\visual studio 2013\Projects\GodavariFoods\GodavariFoods\bin\Debug\GodavariFoods.pdb
+c:\users\rajesh\documents\visual studio 2013\Projects\GodavariFoods\GodavariFoods\bin\Debug\Aspose.BarCode.dll
+c:\users\rajesh\documents\visual studio 2013\Projects\GodavariFoods\GodavariFoods\obj\Debug\GodavariFoods.csprojResolveAssemblyReference.cache
+c:\users\rajesh\documents\visual studio 2013\Projects\GodavariFoods\GodavariFoods\obj\Debug\GodavariFoods.Generate_Barcode.resources
+c:\users\rajesh\documents\visual studio 2013\Projects\GodavariFoods\GodavariFoods\obj\Debug\GodavariFoods.Properties.Resources.resources
+c:\users\rajesh\documents\visual studio 2013\Projects\GodavariFoods\GodavariFoods\obj\Debug\GodavariFoods.csproj.GenerateResource.Cache
+c:\users\rajesh\documents\visual studio 2013\Projects\GodavariFoods\GodavariFoods\obj\Debug\GodavariFoods.exe
+c:\users\rajesh\documents\visual studio 2013\Projects\GodavariFoods\GodavariFoods\obj\Debug\GodavariFoods.pdb
